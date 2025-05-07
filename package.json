@@ -1,0 +1,12 @@
+{
+  "name": "crazecraft",
+  "version": "1.0.0",
+  "description": "Minecraft installer CLI by CraftingCrazeGaming",
+  "main": "bin/cli.js",
+  "bin": {
+    "crazecraft": "./bin/cli.js"
+  },
+  "author": "CraftingCrazeGaming",
+  "license": "MIT",
+  "dependencies": {}
+}

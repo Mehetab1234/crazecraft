@@ -2,7 +2,9 @@
 crazecraft is a opensource minecraft server Installer that Install
 minecraft server without any panel with a easy installation
 **note**it have some problems when you run ``start.sh`` 
-for fix join our [Discord](https://discord.gg/2pTDStQB3P)
+for fix join our 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mehetab1234)
+[![Discord](https://img.shields.io/discord/your-discord-id?label=Join%20Discord&logo=discord&color=5865F2)](https://discord.gg/https://discord.gg/2pTDStQB3P)
 ## Features
 
 - Supports all Minecraft server types:
@@ -49,3 +51,6 @@ Node.js >= 16
 Linux, macOS, or Windows (WSL recommended)
 
 Java installed (for running servers)
+## enjoy 
+enjoy your game with your sever!!
+**made by craftingcrazegamimg**

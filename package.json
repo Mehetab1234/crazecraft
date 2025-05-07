@@ -1,6 +1,6 @@
 {
   "name": "crazecraft",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Universal Minecraft server installer (Paper, Spigot, Forge, etc.)",
   "bin": {
     "crazecraft": "./bin/index.js"

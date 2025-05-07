@@ -1,12 +1,15 @@
 {
   "name": "crazecraft",
   "version": "1.0.0",
-  "description": "Minecraft installer CLI by CraftingCrazeGaming",
-  "main": "bin/cli.js",
+  "description": "Universal Minecraft server installer (Paper, Spigot, Forge, etc.)",
   "bin": {
-    "crazecraft": "./bin/cli.js"
+    "crazecraft": "./bin/index.js"
   },
+  "keywords": ["minecraft", "installer", "paper", "spigot", "vanilla", "forge", "fabric"],
   "author": "CraftingCrazeGaming",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "node": ">=14"
+  }
 }
